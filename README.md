@@ -1,3 +1,5 @@
+Blog Link here: https://medium.com/@ravi95014/i-set-out-to-test-whether-with-minimal-prior-knowledge-of-cuda-and-rocm-i-could-use-chatgpt-b92926d8e610
+
 # CUDA -> HIP Playground
 
 # cuda-to-hip-playground
