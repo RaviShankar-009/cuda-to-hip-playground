@@ -26,7 +26,7 @@ The goal is to prove “one concept, two vendors” and document the porting flo
 
 ## Quickstart A — NVIDIA on Colab (CUDA)
 
-> In Colab: **Runtime → Change runtime type → GPU**. Create a cell and paste the block below (first line must be exactly `%%script /bin/sh`).
+> In Colab: **Runtime → Change runtime type → GPU**. Create a cell and paste the block below.
 
 ```bash
 %%script /bin/sh
