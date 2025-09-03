@@ -49,7 +49,8 @@ OUT=/content/vectorAdd
 echo "Running vectorAdd..."
 "$OUT"
 
----
+--- 
+ROCm on AMD developer Cloud:
 
 # 1) Sanity
 export PATH=/opt/rocm/bin:$PATH
@@ -59,7 +60,7 @@ hipcc --version
 
 # 2) Get the repo
 mkdir -p ~/code && cd ~/code
-git clone https://github.com/{your-username}/cuda-to-hip-playground.git
+git clone https://github.com/RaviShankar-009/cuda-to-hip-playground.git
 cd cuda-to-hip-playground
 
 # 3) Convert CUDA -> HIP (hipify-perl avoids needing CUDA headers)
